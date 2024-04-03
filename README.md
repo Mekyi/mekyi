@@ -1,4 +1,4 @@
-### [List of my game projects](https://github.com/Mekyi/game-projects) (WIP)
+### [List of my game projects](https://github.com/Mekyi/game-projects)
 
 <!--
 **Mekyi/mekyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
