@@ -28,5 +28,13 @@
 ## 🔗 Links
 
 <div align="center">
-  <img src="https://img.shields.io/badge/my_itch.io_page-%23FF0B34?style=for-the-badge&logo=Itch.io&logoColor=white&link=https%3A%2F%2Fmekyi.itch.io%2F" alt="Itch.io Badge"/>
+  <a href="https://mekyi.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/my_itch.io_page-%23FF0B34?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge"/>
+  </a>
+  <a href="https://github.com/Mekyi/game-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Game_jam_entries-%23121011?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/mikael-bjorke/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
