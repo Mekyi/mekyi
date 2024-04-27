@@ -1,8 +1,14 @@
-## 📓 About me
-- Full-stack developer from Finland
-- Currently working as a software developer on .NET solutions for web applications
-- In my spare time, I work on my own projects, mainly game development
-- I enjoy participating game jams
+<div align="center">
+  <h2>Hi there, I'm Mikael - aka Mekyi 👋🏼</h2>
+  <p>Full-Stack • Game Dev</p>
+</div>
+
+## 🔍 About me
+
+- Currently working as a full-stack software developer on .NET solutions
+- In my spare time, I work on my own projects, mainly game development with Unity
+- Running my own single dev game studio "Kuikka Games"
+- I enjoy participating in game jams since they are a great opportunity to learn and test something new
 
 ## 🛠️ Tools
 <div>
@@ -25,16 +31,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
 
+## 🥅 Goals for 2024
+
+- 12 game jams during 12 months - *progress: 4/12* 
+- Learning Unity DOTS/ECS
+
 ## 🔗 Links
 
 <div align="center">
-  <a href="https://mekyi.itch.io/" target="_blank">
-    <img src="https://img.shields.io/badge/my_itch.io_page-%23FF0B34?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge"/>
+  <a href="https://mekyi.itch.io/" target="_blank" title="itch.io">
+    <img src="https://img.shields.io/badge/my_itch.io_page-%23FF0B34?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io Badge" />
   </a>
-  <a href="https://github.com/Mekyi/game-projects" target="_blank">
-    <img src="https://img.shields.io/badge/Game_jam_entries-%23121011?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/Mekyi/game-projects" target="_blank" title="Game Jam entries">
+    <img src="https://img.shields.io/badge/Game_jam_entries-%23121011?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge" />
   </a>
-  <a href="https://linkedin.com/in/mikael-bjorke/" target="_blank">
+  <a href="https://linkedin.com/in/mikael-bjorke/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
