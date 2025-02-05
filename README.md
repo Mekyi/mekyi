@@ -1,11 +1,11 @@
 <div align="center">
   <h2>Hi there, I'm Mikael - aka Mekyi 👋🏼</h2>
-  <p>Full-Stack • Game Dev</p>
+  <p>Game Developer • Full-Stack Programmer</p>
 </div>
 
 ## 🔍 About me
 
-- Currently working as a full-stack software developer on .NET solutions
+- I have industry background in full-stack software development and game programming
 - In my spare time, I work on my own projects, mainly game development with Unity
 - Running my own single dev game studio "Kuikka Games"
 - I enjoy participating in game jams since they are a great opportunity to learn and test something new
@@ -30,11 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
 </div>
-
-## 🥅 Goals for 2024
-
-- 12 game jams during 12 months - *progress: 4/12* 
-- Learning Unity DOTS/ECS
 
 ## 🔗 Links
 
